@@ -1,0 +1,43 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Streamlit cache
+.streamlit/
+
+# Temp files
+temp/
+*.mp4
+*.wav
+*.mp3
+*.ogg
+*.log
+
+# Environments
+env/
+venv/
+.env
+
+# VSCode config
+.vscode/
+
+# Ignore large video and audio files
+*.mp4
+*.mov
+*.avi
+*.flv
+*.mkv
+*.mp3
+*.wav
+*.aac
+*.flac
+*.ogg
+*.m4a
+*.wma
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+*.log

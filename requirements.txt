@@ -1,0 +1,6 @@
+streamlit
+moviepy
+pydub
+pyttsx3
+python-dotenv 
+pyrubberband
