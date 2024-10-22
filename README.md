@@ -15,6 +15,7 @@ To run this project, ensure you have the following installed:
 - **MoviePy**
 - **Pydub**
 - **Pyttsx3**
+- **SpeechRecognition**
 - **Azure OpenAI GPT-4o**
 
 ## Installation
