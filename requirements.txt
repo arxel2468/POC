@@ -5,4 +5,4 @@ pyttsx3
 python-dotenv 
 pyrubberband
 speechrecognition
-deepgram-sdk
+deepgram-sdk==2.12.0
